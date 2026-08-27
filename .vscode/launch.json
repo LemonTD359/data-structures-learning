@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/administartor/Documents/GitHub/data-structures-learning/src/array",
-      "program": "c:/Users/administartor/Documents/GitHub/data-structures-learning/src/array/build/Debug/outDebug",
+      "cwd": "c:/Users/administartor/Documents/GitHub/data-structures-learning/c-language/exercises/01_hello",
+      "program": "c:/Users/administartor/Documents/GitHub/data-structures-learning/c-language/exercises/01_hello/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
