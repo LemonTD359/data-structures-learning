@@ -233,5 +233,6 @@ int main(void)
     | 指定位置删除   |deleteElem()`       |  O(n) |
     | 按值查找       |findElem()`        |  O(n) |
     | 按位查找       |getElem()`         |  O(1) |
+    git commit -m "refactor: reorganize learning repository"
 
 */
